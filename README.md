@@ -9,8 +9,6 @@ automated test. This included the next steps:
    Then check the presence of information about the product in different 
    widgets, including name, label, discount, price, description. See main.py
    
-   ![img_2.png](venv/img_2.png)
-   
 2) Catch possible exceptions relating to selenium driver and make a log file 
    gathering them. See exceptions.py
 
